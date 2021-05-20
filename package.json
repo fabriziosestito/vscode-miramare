@@ -2,9 +2,10 @@
     "name": "miramare",
     "displayName": "miramare",
     "description": "Miramare theme for Visual Studio Code",
+    "publisher": "lainor",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.55.0"
+        "vscode": "^1.53.0"
     },
     "categories": [
         "Themes"
